@@ -97,7 +97,7 @@ url_patterns = [
 
 - `CUSTOM_ADMIN_DEFAULT_APP_LABEL`: set to override the default app_label (default: `django_custom_admin_pages`)
 
-# Supported Versions
+## Supported Versions
 See `tox.ini` for list of python / django version which are tested for this project. For example, Python 3.10 is tested for Django 3.2 - 5.2.
 
 ## Contributing
